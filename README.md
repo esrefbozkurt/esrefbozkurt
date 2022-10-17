@@ -5,12 +5,13 @@ I am Esref from Berlin.
 - _tech enthusiast_ 
 - **webDevStudent** _at neueFische_
 
-![gif coding skills loading](https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif=30px)
+![gif coding skills loading](https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif=10x5)
 
 my hobbies:
 - table tennis, soccer, basketball 
-- photograph, traveller
-- gaming, tech
+- travelling 
+- photography
+- gaming & tech
 
 <!-- Markdown -->
 
