@@ -12,3 +12,4 @@ my hobbies:
 - photograph, traveller
 - gaming, tech
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
